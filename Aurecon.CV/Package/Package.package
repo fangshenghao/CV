@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="ce8048b8-513f-4aa2-be4b-60a0ec63a82f" 
+        solutionId="ce8048b8-513f-4aa2-be4b-60a0ec63a82f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Aurecon.CV"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6ffe0a6d-8a04-4105-a8e9-4982dfe7beab" />
+  </features>
+</package>
