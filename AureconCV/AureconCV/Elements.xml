@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Item (0x01) -->
+  <ContentType ID="0x01004196C39AECC341D989DD684EFB5D110A" Name="AureconCV" Group="Custom Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{039b1527-ac90-4ddb-97c2-18a23fe6ce3d}" DisplayName="First Name" Required="FALSE" Name="EmployeeFirstName" />
+      <FieldRef ID="{31860B8E-A37E-4556-AC42-B55EA84895A0}" DisplayName="Last Name" Required="FALSE" Name="EmployeeLastName" />
+    </FieldRefs>
+  </ContentType>
+</Elements>

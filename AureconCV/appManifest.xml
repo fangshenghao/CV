@@ -1,0 +1,10 @@
+﻿<!--Created:cbbc9d22-5cf7-4e4c-8ee9-42a772aae58a-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" ProductID="{de408693-ed4d-4236-89d3-e028211880ca}" Version="1.0.0.0" SharePointMinVersion="15.0.0.0" Name="AureconCV">
+  <Properties>
+    <Title>Aurecon.CV</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>
