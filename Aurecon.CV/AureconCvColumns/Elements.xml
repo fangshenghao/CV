@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{039b1527-ac90-4ddb-97c2-18a23fe6ce3d}"
+       Name="FirstName"
+       DisplayName="First Name"
+       Type="Text"
+       Required="FALSE"
+       Group="Aurecon CV">
+  </Field>
+</Elements>

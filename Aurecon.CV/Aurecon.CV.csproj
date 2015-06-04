@@ -43,10 +43,14 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="AureconCvColumns\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{055f7a02-f6c7-444c-b7de-070450b26935}</SharePointProjectItemId>
+    </None>
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{de05a320-f49b-461e-9930-3c9d2caa8ad7}</SharePointProjectItemId>
     </None>
+    <Content Include="AureconCvColumns\Elements.xml" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
   </ItemGroup>
