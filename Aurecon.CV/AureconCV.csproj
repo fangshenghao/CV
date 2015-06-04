@@ -46,11 +46,24 @@
     <None Include="AureconCvColumns\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{055f7a02-f6c7-444c-b7de-070450b26935}</SharePointProjectItemId>
     </None>
+    <None Include="AureconCV\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{f7395a59-9c77-4e78-9264-7e24c079fce2}</SharePointProjectItemId>
+    </None>
+    <None Include="Employees\EmployeesInstance\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ed618bad-00f1-43c3-accb-632a5271b7ed}</SharePointProjectItemId>
+    </None>
+    <None Include="Employees\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{92349b09-b154-4fc4-8283-8e97f4d40c32}</SharePointProjectItemId>
+    </None>
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{de05a320-f49b-461e-9930-3c9d2caa8ad7}</SharePointProjectItemId>
     </None>
     <Content Include="AureconCvColumns\Elements.xml" />
+    <Content Include="AureconCV\Elements.xml" />
+    <Content Include="Employees\Elements.xml" />
+    <Content Include="Employees\EmployeesInstance\Elements.xml" />
+    <Content Include="Employees\Schema.xml" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
   </ItemGroup>
@@ -59,7 +72,9 @@
     <None Include="Scripts\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{bc2004db-4b77-49b5-8a76-639e24f56eb0}</SharePointProjectItemId>
     </None>
-    <Content Include="Scripts\Elements.xml" />
+    <Content Include="Scripts\Elements.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Scripts\App.js" />
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
